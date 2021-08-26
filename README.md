@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Bradley Hnatow and I am a junior Computer Science Major at The University of Scranton. I am currently wokring on 
+NearByAlerts.
+
 Things I Know,
 
 Languages:
