@@ -1,16 +1,22 @@
-### Hi there 👋
-My name is Bradley Hnatow and I am a junior Computer Science Major at The University of Scranton. I am currently wokring on 
-NearByAlerts.
+**Hello!!** My name is Bradley Hnatow and I am a junior Computer Science Major at The University of Scranton. 
 
-Things I Know,
+I am currently working on Near By Alerts for Knucklehead Code and Design!
 
-Languages:
+**
+
+**
+
+**Things I Know**
+
+**Languages:**
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Frameworks:
+**Frameworks:**
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+You can reach me at bhnatow@kunckleheadcodedesign.com
 
 <!--
 **hnatowbk/hnatowbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
