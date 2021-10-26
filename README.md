@@ -1,6 +1,6 @@
 **Hello!!** My name is Bradley Hnatow and I am a junior Computer Science Major at The University of Scranton. 
 
-I am currently working on Near By Alerts for Knucklehead Code and Design! Download Near By Alerts Today!!
+I am currently working on Hire Seas for Knucklehead Code and Design and intelligentBets personally.
 
 **
 
