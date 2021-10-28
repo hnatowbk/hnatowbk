@@ -2,9 +2,9 @@
 
 I am currently working on Hire Seas for Knucklehead Code and Design and intelligentBets personally.
 
-**
+***
 
-**
+***
 
 **Things I Know**
 
