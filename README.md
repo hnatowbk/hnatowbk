@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bradley Hnatow</h1>
+<h1 align="center">Hi 👋,  I'm Bradley Hnatow</h1>
 <h3 align="center">I am a University of Scranton Junior studying Applied Computing on a Business Track.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnatowbk&label=Profile%20views&color=0e75b6&style=flat" alt="hnatowbk" /> </p>
