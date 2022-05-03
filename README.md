@@ -22,7 +22,7 @@ Technology I Know:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on various side projects. 
+- 🔭 I’m currently working on various projects. 
 - 📫 How to reach me: hnatowbk@gmail.com 
 
 
