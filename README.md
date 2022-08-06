@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Bradley
 #### I am Currently a Junior at the University of Scranton in Pennsylvania
-I am an Applied Computing (CIS) Student with a background in Business Applications. 
+I am an Applied Computing (CIS) Student with a concentration in Business Applications. 
 
 Technology I Know:
 
