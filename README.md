@@ -25,7 +25,7 @@ Technology I Know:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 
 - 🔭 I’m currently working on various projects. 
-- 📫 How to reach me: hnatowbk@gmail.com || https://hnatowbk.github.io/
+- 📫 How to reach me: hnatowbk@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hnatowbk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hnatowbk/)  
